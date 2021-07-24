@@ -3,14 +3,14 @@
 
 
 
-- 🔭 I’m currently working on askadev a django project.
+- 🔭 I’m currently working on a Django project.
 - 🌱 I’m currently learning django
-- 👯 I’m looking to collaborate on any python and django open source code
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on any python and django open source project
+- 🤔 I’m looking for help with Internship
 - 💬 Ask me to work with you (I am availble to write and code)
 - 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: nothing much
+- ⚡ Fun fact: nothing funny
 <div align="center">
   
   ## Github Stats
