@@ -3,17 +3,17 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on askadev a django project.
+- 🌱 I’m currently learning django
+- 👯 I’m looking to collaborate on any python and django open source code
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me to work with you (I am availble to write and code)
+- 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: nothing much
 <div align="center">
   
-  ## Stats
+  ## Github Stats
 |stats|streak|  
 |---|---|  
 | ![stats](https://github-readme-stats.vercel.app/api?username=azeezdot123&show_icons=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azeezdot123&theme=dark)](https://github.com/azeezdot123/github-readme-streak-stats)|
