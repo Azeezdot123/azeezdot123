@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Olamilekan Azeez
+## Call me Ola
 
-<!--
-**Azeezdot123/azeezdot123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +12,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+<div align="center">
+  
+ ## Github Stats
+  <a href="https://github.com/smahesh29">
+    <img align="center" alt="Olamilekan Azeez Github Stats" src="https://github-readme-stats.vercel.app/api?username=azeezdot123&show_icons=true&theme=radical">
+  </a>
+</div>
+
+<div align="center">
+  
+  ## Top Languages
+  <a href="https://github.com/smahesh29">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezdot123&theme=tokyonight&layout=radical">
+  </a>
+</div>
+  
+  ![](https://komarev.com/ghpvc/?username=azeezdot123)
