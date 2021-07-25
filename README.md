@@ -24,7 +24,7 @@
 <div align="center">
   
   ## Top Languages
-  <a href="https://github.com/smahesh29">
+  <a href="https://github.com/azeezdot123">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezdot123&theme=tokyonight&layout=compact">
   </a>
 </div>
