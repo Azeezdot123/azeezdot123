@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a Django project.
+- 🔭 I’m currently working on a open source Django project name Devconnect.
 - 🌱 I’m currently learning django
 - 👯 I’m looking to collaborate on any python and django open source project
 - 🤔 I’m looking for help with Internship
