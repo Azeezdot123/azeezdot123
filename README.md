@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on a open source Django project name Devconnect.
-- 🌱 I’m currently learning django
+- 🔭 I’m currently working on a open source Django project name Mumble API.
+- 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on any python and django open source project
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me to work with you (I am availble to write and code)
