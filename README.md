@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me to work with you (I am availble to write and code)
 - 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/hims
 - ⚡ Fun fact: nothing funny
 <div align="center">
   
