@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a open source Django project name Mumble API.
 - 🌱 I’m currently into DevOps
-- 👯 I’m looking to collaborate on any python and django open source project
+- 👯 I’m looking to collaborate on any python and django open source project.
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me to work with you (I am availble to write and code).
 - 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
