@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-## ❤ Support me:</h3>
+## ❤ Support me
 <a href="https://www.buymeacoffee.com/olamilekan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="olamilekan" /></a><br><br>
 </div>
 <br>
