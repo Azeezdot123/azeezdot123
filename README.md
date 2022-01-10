@@ -10,7 +10,7 @@
 - 💬 Ask me to work with you (I am availble to write and code).
 - 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: nothing funny.
+- ⚡ Fun fact: nothing funny
 <div align="center">
   
   ## Github Stats
