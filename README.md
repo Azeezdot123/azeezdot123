@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently learning
-- 🌱 I’m currently into DevOps.
+- 🌱 I’m currently Learning Cloud Computing.
 - 👯 I’m looking to collaborate on any python and django open source project.
 - 🤔 I’m looking for help with Internship and jobs.
 - 💬 Ask me to work with you (I am availble to write and code).
