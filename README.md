@@ -27,13 +27,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezdot123&theme=tokyonight&layout=compact">
   </a>
 </div>
-  
-<br> 
-<div align="center">
-  
-  ## Support me ❤ 
-  <p align="center"><a href="https://www.buymeacoffee.com/olamilekan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="olamilekan" /></a></p>
-</div>
 
 <br>
 <br>
