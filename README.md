@@ -1,14 +1,25 @@
-### Hi there 👋, I am Olamilekan Azeez
-## Call me Olamilekan
+<h3 align="center">👋 Hi, I'm Olamilekan Azeez 👋</h3>
+Welcome to my profile! I'm a DevOps Engineer.
+<!-- <p align="center">
+  <a href="#">🌍 Website</a> • 
+  <a href="#">📖 Blog</a> • 
+</p> -->
+<!-- ![](logo.jpg) -->
+
+I am very passionate and enthusiast about tech and the cloud.
+I am also a Backend developer 💻
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-Olamilekan_Azeez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboy/)](https://www.linkedin.com/in/olamilekan123/)
+[![Twitter Badge](https://img.shields.io/badge/-@codewithola-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithola)](https://twitter.com/codewithola)
 
 
-
-- 🌱 I’m currently Learning Cloud Computing.
-- 👯 I’m looking to collaborate on any python and django open source project.
-- 🤔 I’m looking for help with Internship and jobs.
+- 🌱 I’m currently Learning about DevOps and Cloud Computing in general.
+- 👯 I’m looking to collaborate on any DevOps and Cloud open source project.
+<!-- - 🤔 I’m looking for help with Internship and jobs. -->
 - 💬 Ask me to work with you (I am availble to write and code).
-- 📫 How to reach me: [Email me](mailto:headofstate123@gmail.com)
+- 📫 How to reach me: [Email me](mailto:devolamilekan123@gmail.com)
 - ⚡ Fun fact: nothing funny.
+
 <div align="center">
   
   ## Github Stats
